@@ -1,0 +1,11 @@
+	1. Invite button to add new associate
+		a. Notification icon displaying adding users name, with a accept & decline button
+	2. Ability to send instant messages to connected associates
+		a. Pop up chat system
+	3. Notifications for each message user receives
+		a. Icon in top navigation bar
+	4.  Should only show the last 20 messages before showing "load more" message
+		a. Only for the full messaging service
+		b. Popup chat will automatically load messages as user scrolls up 
+	
+	
